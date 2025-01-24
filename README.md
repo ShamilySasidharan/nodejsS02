@@ -1,2 +1,4 @@
-# nodejsS02
-The exercise / additional interview question workout folder 
+#Namaste Node Season02 
+The exercise / additional interview questions workout folder 
+created for coding pratices
+
